@@ -1,0 +1,78 @@
+.h{
+    color: #000d1a;
+    font-weight: 900;
+    font-size: 60px;
+    text-shadow: 7px 5px #b38b0783;
+    margin-top: 100px;
+    
+}
+.p{
+    color: black;
+    font-weight: bold;
+}
+.contain{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 40px;
+    
+}
+.pm{
+  background-color: #ffffff;
+}
+.hhh{
+    color: #b38a07;
+    font-weight: bolder;
+}
+.ims{
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+}
+.ims:hover{
+  cursor: pointer;
+transform: scale(1.01);
+box-shadow: 0 4px 8px 0 rgba(90, 88, 88, 0.2), 0 6px 20px 0 rgba(102, 101, 101, 0.19);
+  width: 250px;
+  height: 200px;
+}
+.g{
+    color:black;
+    
+    margin-left: 50px;
+}
+.a{
+    
+    margin: 10px;
+}
+
+  
+  .cont{
+    display: flex;
+    
+  }
+  .cont1{
+    display :flex;
+   
+  }
+  .cont2{
+    display :flex;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+.par1{
+  padding-top: 20px;
+  padding-left: 10px;
+  margin-left: 15px;
+  color: #000000;
+  font-weight: bold;
+}
+.part2{
+  
+  padding-left: 200px;
+  padding-right: 200px;
+  margin-top: 20px;
+  padding-top: 20px;
+  padding-bottom: 5px;
+}
+  /* Style pour les points de navigation */
+ 

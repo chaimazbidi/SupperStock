@@ -1,0 +1,28 @@
+
+.form1{
+    width: 400px;
+    height: 680px;
+    background-color: rgba(243, 243, 243, 0.336);
+    border-color: black;
+    border: 2px;
+    padding: 40px;
+    position: absolute;
+    top: 2%;
+    left: 10%;
+    color: rgb(4, 14, 3);
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(52, 109, 19, 0.555), 0 6px 20px 0 rgba(40, 87, 8, 0.219);
+     }
+     .hr1{
+      color: rgb(5, 129, 5);
+     }
+     .login1{
+      height: 705px;
+    background-image: url("https://cdn.futura-sciences.com/sources/images/actu/olivier-secheresse.jpeg");
+     }
+    .btn1{
+      margin-top: 5px;
+      margin-left: 230px;
+      background-color: rgb(7, 6, 22);
+    }
+    

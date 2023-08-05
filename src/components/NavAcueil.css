@@ -1,0 +1,29 @@
+.icon2{
+    color: rgb(241, 245, 241) ;
+   margin-left: 20px;
+   margin-right: 150px;
+}
+.icon2:hover{
+    color:  rgb(59, 238, 23);
+}
+.menu1{color:white;
+    font-size: large;
+    margin-left: 20px;
+
+}
+.menu1:hover{
+    color:rgb(59, 238, 23) ;
+}
+.title1 strong{
+    color: rgb(59, 238, 23);
+    font-size: 25px;
+    
+}
+.title1{
+    color:rgb(255, 252, 252);
+    margin-right: 200px;
+    margin-left: 150px;
+    font-size: 22px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bolder;
+}
